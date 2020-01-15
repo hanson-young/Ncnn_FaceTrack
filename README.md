@@ -3,7 +3,7 @@
 基于mtcnn人脸检测+onet人脸跟踪
 <p>
 <div align="center">
-<img src="./resource/demo.gif" width="650px" alt="Demo(运行于 Ubuntu 18.04, i5-7400, NCNN)"/>
+<img src="https://github.com/zeusees/HyperFT/blob/master/resource/demo.gif" width="650px" alt="Demo(运行于 Ubuntu 18.04, i5-7400, NCNN)"/>
 <div align="center">Demo(运行于 Ubuntu 18.04, i5-7400, NCNN)</div>
 </div>
 <p>
